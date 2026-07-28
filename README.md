@@ -1,20 +1,52 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+🤖 AI Content Generator using Google Gemini AI
 
-# Run and deploy your AI Studio app
+An AI-powered web application built using Google AI Studio and Google Gemini AI that generates high-quality content in seconds.
 
-This contains everything you need to run your app locally.
+🚀 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/63808fb5-63c6-43e4-9ba2-b8edc004f99d
+🌐 https://ai-content-generator.ai.studio
 
-## Run Locally
+✨ Features
+📝 Blog Article Generator
+📧 Email Generator
+💼 LinkedIn Post Generator
+📸 Instagram Caption Generator
+📦 Product Description Generator
+📄 Text Summarizer
+📋 Copy Generated Content
+🎨 Clean & Responsive UI
+🛠️ Technologies Used
+Google AI Studio
+Google Gemini AI
+JavaScript
+HTML
+CSS
+Node.js
+📷 Screenshots
 
-**Prerequisites:**  Node.js
+Add screenshots of:
 
+Home Page
+Prompt Input
+Generated Output
+⚙️ Run Locally
+Prerequisites
+Node.js
+Gemini API Key
+Installation
+npm install
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Create a .env.local file and add:
+
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY
+
+Run the application:
+
+npm run dev
+📌 Project Objective
+
+This project demonstrates how Generative AI can simplify content creation by generating blogs, emails, captions, summaries, and other written content using Google Gemini AI.
+
+📄 License
+
+This project is for learning and educational purposes.
