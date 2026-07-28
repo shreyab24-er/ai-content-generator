@@ -26,6 +26,7 @@ Node.js
 Run the application:
 
 npm run dev
+
 📌 Project Objective
 
 This project demonstrates how Generative AI can simplify content creation by generating blogs, emails, captions, summaries, and other written content using Google Gemini AI.
