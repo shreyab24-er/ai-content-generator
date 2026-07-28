@@ -22,23 +22,6 @@ JavaScript
 HTML
 CSS
 Node.js
-📷 Screenshots
-
-Add screenshots of:
-
-Home Page
-Prompt Input
-Generated Output
-⚙️ Run Locally
-Prerequisites
-Node.js
-Gemini API Key
-Installation
-npm install
-
-Create a .env.local file and add:
-
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 Run the application:
 
