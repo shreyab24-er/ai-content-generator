@@ -1,0 +1,6 @@
+{
+  "name": "AI Content Generator",
+  "description": "A modern AI Content Generator web application powered by Google Gemini AI for blogs, emails, social posts, captions, product descriptions, and text summarization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
